@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: deae0d366efdbb64b9fe5a4ecf257ec0
+  - enabled: 1
+    path: Assets/Scenes/OpeningMessageScene.unity
+    guid: f0a274a96ea416b42a406b37de52c309
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 59a0e1d6e99aaab49bd6c954eac6bbab
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene(Covid).unity
+    guid: 4c3089ee185700d4198230b345186073
+  - enabled: 1
+    path: Assets/Scenes/CongratulationScene.unity
+    guid: 511c6d8ebf7cefc43a92a12337ac2e5f
+  m_configObjects: {}
